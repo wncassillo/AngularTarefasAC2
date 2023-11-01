@@ -1,3 +1,10 @@
+# Tarefa em Angular para a Matéria de Desenvolvimento Web.
+## Alunos: 
+## Ronald Domynik dos Santos 
+## Wilson Cassillo Neto
+
+-----------------------
+
 # Angular01
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
