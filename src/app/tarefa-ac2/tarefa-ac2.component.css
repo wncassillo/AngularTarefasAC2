@@ -1,0 +1,17 @@
+.botao{
+padding: 6px;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 300px auto;
+    justify-content: left;
+    align-items: center;
+    gap: 20px;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
