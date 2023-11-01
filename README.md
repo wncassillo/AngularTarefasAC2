@@ -1,7 +1,5 @@
-# Tarefa em Angular para a Matéria de Desenvolvimento Web.
-## Alunos: 
-## Ronald Domynik dos Santos 
-## Wilson Cassillo Neto
+# Tarefa em Angular: Desenvolvimento Web.
+## Ronald Domynik dos Santos & Wilson Cassillo Neto
 
 -----------------------
 
